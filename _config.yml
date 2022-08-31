@@ -1,0 +1,17 @@
+# Site settings
+title: The Gliss
+header-img: img/home-bg.jpg
+email: mail@thegliss.com
+description: "Handcrafted Music Reviews from the 21st Century."
+baseurl: ""
+url: "http://thegliss.github.io"
+twitter_username: thegliss
+github_username:  brennanbrown
+facebook_username:  thegliss
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: :title
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
